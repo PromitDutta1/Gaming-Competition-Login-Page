@@ -1,1 +1,1 @@
-Hi. It's a gaming compition login web page.
+Hi. It's a gaming competition login web page.
